@@ -2,7 +2,7 @@
 
 This diagram illustrates the **layered architecture** of the Windows Operating System, emphasizing the interaction between **User Mode** and **Kernel Mode** components.
 
-![Windows OS Architecture](./image/win_architecture.png)
+![Windows OS Architecture](https://github.com/Parveen-Birthaliya/CySA-Learning/blob/main/CiscoSOC/image/win_architecture.png)
 
 ---
 
